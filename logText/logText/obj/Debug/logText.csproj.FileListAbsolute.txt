@@ -1,0 +1,7 @@
+C:\Users\micha\OneDrive\Desktop\consoleApp1\logText\logText\logText\bin\Debug\logText.exe.config
+C:\Users\micha\OneDrive\Desktop\consoleApp1\logText\logText\logText\bin\Debug\logText.exe
+C:\Users\micha\OneDrive\Desktop\consoleApp1\logText\logText\logText\bin\Debug\logText.pdb
+C:\Users\micha\OneDrive\Desktop\consoleApp1\logText\logText\logText\obj\Debug\logText.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\consoleApp1\logText\logText\logText\obj\Debug\logText.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\consoleApp1\logText\logText\logText\obj\Debug\logText.exe
+C:\Users\micha\OneDrive\Desktop\consoleApp1\logText\logText\logText\obj\Debug\logText.pdb
